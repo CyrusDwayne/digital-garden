@@ -1,0 +1,1 @@
+module.exports = require("/Users/cyrus/Documents/GitHub/digital-garden/src/lib/typography")
